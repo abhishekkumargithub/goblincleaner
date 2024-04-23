@@ -1,7 +1,5 @@
 <h1>Project Title: CleanCityQuest </h1>
 -----------------------------------------------------------------------------------------------------------------
-<h3>Project theme: EcoTech</h3>
------------------------------------------------------------------------------------------------------------------
 <H3>Objective:</H3> 
 Our objective is to develop a fully responsive website with integrated frontend, backend, and machine learning capabilities for the "CleanCity Quest" app. This website will serve as a platform to gamify cleaning tasks, detect waste items, and reward users with points for their clean-up efforts. By building this website, we aim to revolutionize the way communities tackle litter and waste, turning the process of cleaning up into an exciting adventure.<br>
 ----------------------------------------------------------------------------------------------------------
